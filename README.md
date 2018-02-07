@@ -8,6 +8,9 @@ Oder the book here http://shop.oreilly.com/product/0636920032441.do or under htt
 
 There are two code versions available: for **Python 2.7** and **Python 3.5**.
 
+## Python3 Setup
+```pip install jupyter tables pandas matplotlib scipy numpy pylab```
+
 ## Yahoo! Finance Issue
 
 Recently **Yahoo! Finance stopped their financial data API service** that is used in the book in many different places.
